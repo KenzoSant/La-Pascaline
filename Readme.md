@@ -1,7 +1,7 @@
-• Calculadora •
+# 🧮 Calculadora
 
-•- Aprendendo Java Script -•
-•- Caso tenha alguma sugestao de alteração pode mandar -•
-
-•- Obrigado ...Kenzo-•
+##  Calculadora
+- Desenvolvido em HTML, CSS e JavaScript.
+- Primeira Calculadora.
+- Interface de usuário simples.
 
